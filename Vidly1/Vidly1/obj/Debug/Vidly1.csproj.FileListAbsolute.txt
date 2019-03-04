@@ -1,0 +1,2 @@
+C:\Users\hjain105\source\repos\Vidly1\Vidly1\obj\Debug\Vidly1.csprojAssemblyReference.cache
+C:\Users\hjain105\source\repos\Vidly1\Vidly1\obj\Debug\Vidly1.csproj.CoreCompileInputs.cache
